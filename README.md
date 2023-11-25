@@ -1,1 +1,1 @@
-# The Project was a part of my Specilisation Curiculumn during my undergraduation, Where in i developed a prediction of Pneumonia using a pre exisiting dataset and used Deep Learning frame works in order to achieve the goal
+# The Project was a part of my Specialisation Curiculumn during my undergraduation, Where in i developed a prediction of Pneumonia using a pre exisiting dataset and used Deep Learning frame works in order to achieve the goal
